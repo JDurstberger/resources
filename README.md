@@ -78,6 +78,10 @@ often refer back to.
 [Head to Head: Scott Allen and Jon Skeet - Scott Hanselman
 ](https://youtu.be/H2KkiRbDZyc)
 
+### Collections
+
+[Awesome Talks - Jan Van Ryswyck](https://github.com/JanVanRyswyck/awesome-talks)
+
 ## Blog Posts
 
 ### General Software Development
