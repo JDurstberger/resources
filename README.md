@@ -21,9 +21,9 @@ often refer back to.
 
 [Thinking Outside the Synchronisation Quadrant - Kevlin Henney](https://youtu.be/2yXtZ8x7TXw)
 
-[Scaling Yourself - Scott Hanselman](https://youtu.be/FS1mnISoG7U)
+[Scaling Yourself](https://youtu.be/FS1mnISoG7U) - Scott Hanselman
 
-[It's Not What You Read, It's What You Ignore](https://youtu.be/IWPgUn8tL8s)
+[It's Not What You Read, It's What You Ignore](https://youtu.be/IWPgUn8tL8s) - Scott Hanselman
 
 [Software Is Details - Kevlin Henney](https://youtu.be/yOYkzecsunQ)
 
@@ -78,7 +78,7 @@ often refer back to.
 [Head to Head: Scott Allen and Jon Skeet - Scott Hanselman
 ](https://youtu.be/H2KkiRbDZyc)
 
-### Collections
+### Other Peoples Collections
 
 [Awesome Talks - Jan Van Ryswyck](https://github.com/JanVanRyswyck/awesome-talks)
 
