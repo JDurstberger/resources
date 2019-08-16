@@ -7,71 +7,71 @@ often refer back to.
 
 ### General Software Development
 
-[Simple Made Easy - Rich Hickey](https://www.infoq.com/presentations/Simple-Made-Easy/)
+[Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy/) - Rich Hickey
 
-[Software Architecture vs. Code - Simon Brown](https://youtu.be/GAFZcYlO5S0)
+[Software Architecture vs. Code](https://youtu.be/GAFZcYlO5S0) - Simon Brown
 
-[Seven Ineffective Coding Habits of Many Programmers - Kevlin Henney](https://youtu.be/ZsHMHukIlJY)
+[Seven Ineffective Coding Habits of Many Programmers](https://youtu.be/ZsHMHukIlJY) - Kevlin Henney
 
-[The Error of Our Ways - Kevlin Henney](https://youtu.be/IiGXq3yY70o)
+[The Error of Our Ways](https://youtu.be/IiGXq3yY70o) - Kevlin Henney
 
-[Beyond Developer - Dan North](https://youtu.be/wYEk0y8LYfg)
+[Beyond Developer](https://youtu.be/wYEk0y8LYfg) - Dan North
 
-[Clean Coders Hate What Happens To Your Code When You Use These Enterprise Programming Tricks - Kevlin Henney](https://youtu.be/brfqm9k6qzc)
+[Clean Coders Hate What Happens To Your Code When You Use These Enterprise Programming Tricks](https://youtu.be/brfqm9k6qzc) - Kevlin Henney
 
-[Thinking Outside the Synchronisation Quadrant - Kevlin Henney](https://youtu.be/2yXtZ8x7TXw)
+[Thinking Outside the Synchronisation Quadrant](https://youtu.be/2yXtZ8x7TXw) - Kevlin Henney
 
 [Scaling Yourself](https://youtu.be/FS1mnISoG7U) - Scott Hanselman
 
 [It's Not What You Read, It's What You Ignore](https://youtu.be/IWPgUn8tL8s) - Scott Hanselman
 
-[Software Is Details - Kevlin Henney](https://youtu.be/yOYkzecsunQ)
+[Software Is Details](https://youtu.be/yOYkzecsunQ) - Kevlin Henney
 
-[Worse Is Better, for Better or for Worse - Kevlin Henney](https://youtu.be/yOYkzecsunQ)
+[Worse Is Better, for Better or for Worse](https://youtu.be/yOYkzecsunQ) - Kevlin Henney
 
-[Full Stack Developer - Kevlin Henney](https://youtu.be/JiQct3QixMo)
+[Full Stack Developer](https://youtu.be/JiQct3QixMo) - Kevlin Henney
 
-[The Many Meanings of Event-Driven Architecture - Martin Fowler](https://youtu.be/STKCRSUsyP0)
+[The Many Meanings of Event-Driven Architecture](https://youtu.be/STKCRSUsyP0) - Martin Fowler
 
-[Get Kata - Kevlin Henney](https://youtu.be/dHPX1SzeDjE)
+[Get Kata](https://youtu.be/dHPX1SzeDjE) - Kevlin Henney
 
-[Hammock Driven Development - Rich Hickey](https://youtu.be/f84n5oFoZBc)
+[Hammock Driven Development](https://youtu.be/f84n5oFoZBc) - Rich Hickey
 
-[The Value of Values - Rich Hickey](https://youtu.be/-6BsiVyC1kM)
+[The Value of Values](https://youtu.be/-6BsiVyC1kM) - Rich Hickey
 
-[The Language of the System - Rich Hickey](https://youtu.be/ROor6_NGIWU)
+[The Language of the System](https://youtu.be/ROor6_NGIWU) - Rich Hickey
 
-[Maybe Not - Rich Hickey](https://youtu.be/YR5WdGrpoug)
+[Maybe Not](https://youtu.be/YR5WdGrpoug) - Rich Hickey
 
-[Are We There Yet - Rich Hickey](https://youtu.be/E4RarTAZ2AY)
+[Are We There Yet](https://youtu.be/E4RarTAZ2AY) - Rich Hickey
 
 ### Functional Programming
 
-[Domain Modeling Made Functional - Scott Wlaschin](https://youtu.be/Up7LcbGZFuo)
+[Domain Modeling Made Functional](https://youtu.be/Up7LcbGZFuo) - Scott Wlaschin
 
-[Functional Programming Patterns for Mere Mortals - Daniel Chambers](https://youtu.be/v9QGWbGppis)
+[Functional Programming Patterns for Mere Mortals](https://youtu.be/v9QGWbGppis) - Daniel Chambers
 
-[Effective Programs: 10 Years of Clojure - Rich Hickey](https://youtu.be/2V1FtfBDsLU)
+[Effective Programs: 10 Years of Clojure](https://youtu.be/2V1FtfBDsLU) - Rich Hickey
 
-[Expert to Expert: Inside Clojure - Rich Hickey and Brian Beckman](https://youtu.be/wASCH_gPnDw)
+[Expert to Expert: Inside Clojure](https://youtu.be/wASCH_gPnDw) - Rich Hickey and Brian Beckman
 
 ### Object-Oriented Programming
 
-[It Is Possible to Do Object-Oriented Programming in Java - Kevlin Henney](https://vimeo.com/56748054)
+[It Is Possible to Do Object-Oriented Programming in Java](https://vimeo.com/56748054) - Kevlin Henney
 
-[The SOLID Design Principles Deconstructed - Kevlin Henney](https://youtu.be/tMW08JkFrBA)
+[The SOLID Design Principles Deconstructed](https://youtu.be/tMW08JkFrBA) - Kevlin Henney
 
 ### Microservices
 
-[Mastering Chaos: A Netflix Guide to Microservices - Josh Evans](https://youtu.be/CZ3wIuvmHeM)
+[Mastering Chaos: A Netflix Guide to Microservices](https://youtu.be/CZ3wIuvmHeM) - Josh Evans
 
 ### Testing
 
-[TDD, Where Did It All Go Wrong - Ian Cooper](https://youtu.be/EZ05e7EMOLM)
+[TDD, Where Did It All Go Wrong](https://youtu.be/EZ05e7EMOLM) - Ian Cooper
 
-[Pyramids Are Ancient: Let’s Talk Automation Strategy - Richard Bradshaw](https://youtu.be/83aHKC5C14Q)
+[Pyramids Are Ancient: Let’s Talk Automation Strategy](https://youtu.be/83aHKC5C14Q) - Richard Bradshaw
 
-[The Deep Synergy Between Testability And Good Design - Michael Feathers](https://youtu.be/4cVZvoFGJTU)
+[The Deep Synergy Between Testability And Good Design](https://youtu.be/4cVZvoFGJTU) - Michael Feathers
 
 ### Miscellaneous Software Talks
 
@@ -80,32 +80,32 @@ often refer back to.
 
 ### Other Peoples Collections
 
-[Awesome Talks - Jan Van Ryswyck](https://github.com/JanVanRyswyck/awesome-talks)
+[Awesome Talks](https://github.com/JanVanRyswyck/awesome-talks) - Jan Van Ryswyck
 
 ## Blog Posts
 
 ### General Software Development
 
-[Beating the Average - Paul Graham](http://www.paulgraham.com/avg.html)
+[Beating the Average](http://www.paulgraham.com/avg.html) - Paul Graham
 
-[Lessons From 6 Software Rewrites - Herb Caudill](https://medium.com/@herbcaudill/lessons-from-6-software-rewrite-stories-635e4c8f7c22)
+[Lessons From 6 Software Rewrites](https://medium.com/@herbcaudill/lessons-from-6-software-rewrite-stories-635e4c8f7c22) - Herb Caudill
 
-[On Being A Senior Engineer - John Allspaw](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
+[On Being A Senior Engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/) - John Allspaw
 
-[Is Quality Worth the Cost - Martin Fowler](https://martinfowler.com/articles/is-quality-worth-cost.html)
+[Is Quality Worth the Cost](https://martinfowler.com/articles/is-quality-worth-cost.html) - Martin Fowler
 
 ### Haskell
 
-[The Haskell Pyramid - Patrick Nielsen](https://patrickmn.com/software/the-haskell-pyramid/)
+[The Haskell Pyramid](https://patrickmn.com/software/the-haskell-pyramid/) - Patrick Nielsen
 
-[The Three Layer Haskell Cake - Matt Parsons](https://www.parsonsmatt.org/2018/03/22/three_layer_haskell_cake.html)
+[The Three Layer Haskell Cake](https://www.parsonsmatt.org/2018/03/22/three_layer_haskell_cake.html) - Matt Parsons
 
-[An Opinionated Guide to Haskell in 2018 - Alexis King](https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/)
+[An Opinionated Guide to Haskell in 2018](https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/) - Alexis King
 
 ### Career Progression
 
-[3 Keys to Career Success: The Pieces of PIE - Frank Battiston](http://www.mondofrank.com/pie/)
+[3 Keys to Career Success: The Pieces of PIE](http://www.mondofrank.com/pie/) - Frank Battiston
 
-[Reorientation is Key - Joseph Abrahamson](https://jspha.com/posts/reorientation-is-key/)
+[Reorientation is Key](https://jspha.com/posts/reorientation-is-key/) - Joseph Abrahamson
 
-[Double Loop Learning - Farnam Street](https://fs.blog/2018/06/double-loop-learning/)
+[Double Loop Learning](https://fs.blog/2018/06/double-loop-learning/) - Farnam Street
