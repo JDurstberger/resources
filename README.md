@@ -1,7 +1,8 @@
 # Resources
 
-This is just a small collection of talks, blog-posts, papers, etc that I found useful and 
-often refer back to.
+This is just a small collection of talks,books, blog-posts, papers, etc that I found useful and 
+often refer back to. This is not meant as a complete list of everything I have watched or read, but
+a curated list of resources I can personally recommend and consider good or interesting.
 
 ## Talks
 
@@ -83,6 +84,34 @@ often refer back to.
 ### Other Peoples Collections
 
 [Awesome Talks](https://github.com/JanVanRyswyck/awesome-talks) - Jan Van Ryswyck
+
+## Book
+
+### General Software Development
+
+* **The Pragmatic Programmer** - Andrew Hunt, David Thomas
+* **Code Complete: A Practical Handbook of Software Construction** - Steve McConnell
+* **Clean Code** - Robert C. Martin
+
+### Testing
+
+* **Test-Driven Development by Example** - Kent Beck
+* **Working Effectively with Legacy Code** - Michael Feathers
+* **Growing Object-Oriented Software, Guided by Tests** - Steve Freeman, Nat Price
+
+### Project Management
+
+* **Extreme Programming Explained: Embrace Change** - Kent Beck
+* **Agile Estimating and Planning** - Mike Cohn
+* **The Mythical Man-Month** - Frederic P. Brooks
+
+### General Functional Programming
+
+* **Domain Modeling Made Functional** - Scott Wlaschin
+
+### Haskell
+
+* **Haskell Programming from First Principles** - Christopher Allen, Julie Moronuki
 
 ## Blog Posts
 
