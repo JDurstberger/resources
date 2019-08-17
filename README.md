@@ -73,6 +73,8 @@ often refer back to.
 
 [The Deep Synergy Between Testability And Good Design](https://youtu.be/4cVZvoFGJTU) - Michael Feathers
 
+[Programming with GUTs](https://youtu.be/azoucC_fwzw) - Kevlin Henney
+
 ### Miscellaneous Software Talks
 
 [Head to Head: Scott Allen and Jon Skeet - Scott Hanselman
