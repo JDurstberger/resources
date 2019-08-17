@@ -36,6 +36,7 @@ a curated list of resources I can personally recommend and consider good or inte
 ### Object-Oriented Programming
 * [It Is Possible to Do Object-Oriented Programming in Java](https://vimeo.com/56748054) - Kevlin Henney
 * [The SOLID Design Principles Deconstructed](https://youtu.be/tMW08JkFrBA) - Kevlin Henney
+* [All the Little Things](https://youtu.be/x1wnI0AxpEU) - Sandi Metz
 
 ### Microservices
 * [Mastering Chaos: A Netflix Guide to Microservices](https://youtu.be/CZ3wIuvmHeM) - Josh Evans
