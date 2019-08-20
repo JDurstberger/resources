@@ -6,6 +6,10 @@ a curated list of resources I can personally recommend and consider good or inte
 
 ## Talks
 
+### Teams
+
+ * [You're Insufficiently Persuasive](https://youtu.be/VzWLGMtXflg) - Sandi Metz
+
 ### General Software Development
 * [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy/) - Rich Hickey
 * [Software Architecture vs. Code](https://youtu.be/GAFZcYlO5S0) - Simon Brown
