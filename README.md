@@ -54,6 +54,7 @@ a curated list of resources I can personally recommend and consider good or inte
 ### Miscellaneous Software Talks
 * [Head to Head: Scott Allen and Jon Skeet - Scott Hanselman
 ](https://youtu.be/H2KkiRbDZyc)
+* [Wat](https://www.destroyallsoftware.com/talks/wat) - Gary Bernhardt
 
 ### Other Peoples Collections
 * [Awesome Talks](https://github.com/JanVanRyswyck/awesome-talks) - Jan Van Ryswyck
