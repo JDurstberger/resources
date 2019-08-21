@@ -87,7 +87,11 @@ a curated list of resources I can personally recommend and consider good or inte
 
 * **Haskell Programming from First Principles** - Christopher Allen, Julie Moronuki
 
-## Blog Posts
+## Blog Posts & Articles
+
+### Teams
+
+[What Google Learned From Its Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html) - NY Times
 
 ### General Software Development
 * [Beating the Average](http://www.paulgraham.com/avg.html) - Paul Graham
