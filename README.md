@@ -6,9 +6,10 @@ a curated list of resources I can personally recommend and consider good or inte
 
 ## Talks
 
-### Teams
+### Teams & Personal Improvement
 
  * [You're Insufficiently Persuasive](https://youtu.be/VzWLGMtXflg) - Sandi Metz
+ * [Some Underrated Elements of Success for the Modern Programmer](https://youtu.be/mbcV_Qdb7Ts) - J. B. Rainsberger
 
 ### General Software Development
 * [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy/) - Rich Hickey
@@ -59,7 +60,7 @@ a curated list of resources I can personally recommend and consider good or inte
 ### Other Peoples Collections
 * [Awesome Talks](https://github.com/JanVanRyswyck/awesome-talks) - Jan Van Ryswyck
 
-## Book
+## Books
 
 ### General Software Development
 
