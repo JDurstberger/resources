@@ -109,3 +109,8 @@ a curated list of resources I can personally recommend and consider good or inte
 * [3 Keys to Career Success: The Pieces of PIE](http://www.mondofrank.com/pie/) - Frank Battiston
 * [Reorientation is Key](https://jspha.com/posts/reorientation-is-key/) - Joseph Abrahamson
 * [Double Loop Learning](https://fs.blog/2018/06/double-loop-learning/) - Farnam Street
+
+
+## Quotes
+
+"If you learn something, that's good news about today not bad news about yesterday" - Ron Jeffries
