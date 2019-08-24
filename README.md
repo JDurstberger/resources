@@ -4,6 +4,13 @@ This is just a small collection of talks,books, blog-posts, papers, etc that I f
 often refer back to. This is not meant as a complete list of everything I have watched or read, but
 a curated list of resources I can personally recommend and consider good or interesting.
 
+**Index**
+
+[Talks](#talks)   
+[Books](#books)  
+[Blog Posts & Articles](#blog-posts--articles)  
+[Quotes](#quotes)  
+
 ## Talks
 
 ### Teams & Personal Improvement
@@ -92,7 +99,7 @@ a curated list of resources I can personally recommend and consider good or inte
 
 ### Teams
 
-[What Google Learned From Its Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html) - NY Times
+* [What Google Learned From Its Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html) - NY Times
 
 ### General Software Development
 * [Beating the Average](http://www.paulgraham.com/avg.html) - Paul Graham
