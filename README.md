@@ -58,6 +58,7 @@ a curated list of resources I can personally recommend and consider good or inte
 * [Pyramids Are Ancient: Let’s Talk Automation Strategy](https://youtu.be/83aHKC5C14Q) - Richard Bradshaw
 * [The Deep Synergy Between Testability And Good Design](https://youtu.be/4cVZvoFGJTU) - Michael Feathers
 * [Programming with GUTs](https://youtu.be/azoucC_fwzw) - Kevlin Henney
+* [Race Conditions, Distribution, Interactions—Testing the Hard Stuff and Staying Sane](https://vimeo.com/68383317) - John Hughes 
 
 ### Miscellaneous Software Talks
 * [Head to Head: Scott Allen and Jon Skeet - Scott Hanselman
