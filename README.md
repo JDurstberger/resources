@@ -117,8 +117,10 @@ a curated list of resources I can personally recommend and consider good or inte
 * [3 Keys to Career Success: The Pieces of PIE](http://www.mondofrank.com/pie/) - Frank Battiston
 * [Reorientation is Key](https://jspha.com/posts/reorientation-is-key/) - Joseph Abrahamson
 * [Double Loop Learning](https://fs.blog/2018/06/double-loop-learning/) - Farnam Street
-
+* [How to Be Great? Just Be Good, Repeatedly](https://blog.stephsmith.io/how-to-be-great/) - Steph Smith
 
 ## Quotes
 
 "If you learn something, that's good news about today not bad news about yesterday" - Ron Jeffries
+
+“We are what we repeatedly do. Excellence, then, is not an act, but a habit.” - Aristotle
