@@ -60,6 +60,10 @@ a curated list of resources I can personally recommend and consider good or inte
 * [Programming with GUTs](https://youtu.be/azoucC_fwzw) - Kevlin Henney
 * [Race Conditions, Distribution, Interactions—Testing the Hard Stuff and Staying Sane](https://vimeo.com/68383317) - John Hughes 
 
+### Clojure
+
+* [Transforming Enterprise Development With Clojure](https://www.youtube.com/watch?v=nItR5rwP4mY) - Dmitri Sotnikov
+
 ### Miscellaneous Software Talks
 * [Head to Head: Scott Allen and Jon Skeet - Scott Hanselman
 ](https://youtu.be/H2KkiRbDZyc)
