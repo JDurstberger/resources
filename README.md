@@ -38,6 +38,7 @@ a curated list of resources I can personally recommend and consider good or inte
 * [The Language of the System](https://youtu.be/ROor6_NGIWU) - Rich Hickey
 * [Maybe Not](https://youtu.be/YR5WdGrpoug) - Rich Hickey
 * [Are We There Yet](https://youtu.be/E4RarTAZ2AY) - Rich Hickey
+* [Spec-ulation](https://youtu.be/oyLBGkS5ICk) - Rich Hickey
 
 ### Functional Programming
 * [Domain Modeling Made Functional](https://youtu.be/Up7LcbGZFuo) - Scott Wlaschin
@@ -63,6 +64,7 @@ a curated list of resources I can personally recommend and consider good or inte
 ### Clojure
 
 * [Transforming Enterprise Development With Clojure](https://www.youtube.com/watch?v=nItR5rwP4mY) - Dmitri Sotnikov
+* [Transducers](https://youtu.be/6mTbuzafcII) - Rich Hickey
 
 ### Miscellaneous Software Talks
 * [Head to Head: Scott Allen and Jon Skeet - Scott Hanselman
