@@ -39,6 +39,7 @@ a curated list of resources I can personally recommend and consider good or inte
 * [Maybe Not](https://youtu.be/YR5WdGrpoug) - Rich Hickey
 * [Are We There Yet](https://youtu.be/E4RarTAZ2AY) - Rich Hickey
 * [Spec-ulation](https://youtu.be/oyLBGkS5ICk) - Rich Hickey
+* [Crossing the River by Feeling the Stones](https://youtu.be/2IW9L1uNMCs) - Simon Wardley
 
 ### Functional Programming
 * [Domain Modeling Made Functional](https://youtu.be/Up7LcbGZFuo) - Scott Wlaschin
