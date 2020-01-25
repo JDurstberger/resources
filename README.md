@@ -17,6 +17,7 @@ a curated list of resources I can personally recommend and consider good or inte
 
  * [You're Insufficiently Persuasive](https://youtu.be/VzWLGMtXflg) - Sandi Metz
  * [Some Underrated Elements of Success for the Modern Programmer](https://youtu.be/mbcV_Qdb7Ts) - J. B. Rainsberger
+ * [Five Dysfunctions of a Team](https://youtu.be/O5EQW026alY) - Patrick Lencioni
 
 ### General Software Development
 * [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy/) - Rich Hickey
