@@ -115,6 +115,7 @@ a curated list of resources I can personally recommend and consider good or inte
 * [Lessons From 6 Software Rewrites](https://medium.com/@herbcaudill/lessons-from-6-software-rewrite-stories-635e4c8f7c22) - Herb Caudill
 * [On Being A Senior Engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/) - John Allspaw
 * [Is Quality Worth the Cost](https://martinfowler.com/articles/is-quality-worth-cost.html) - Martin Fowler
+* [Against TDD](http://neopragma.com/index.php/2019/09/29/against-tdd/) - neopragma
 
 ### Haskell
 * [The Haskell Pyramid](https://patrickmn.com/software/the-haskell-pyramid/) - Patrick Nielsen
