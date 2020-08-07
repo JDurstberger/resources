@@ -43,6 +43,7 @@ a curated list of resources I can personally recommend and consider good or inte
 * [Crossing the River by Feeling the Stones](https://youtu.be/2IW9L1uNMCs) - Simon Wardley
 * [Programming Across Paradigms](https://youtu.be/Pg3UeB-5FdA) - Anjana Vakil
 * [Tidy First?](https://www.youtube.com/watch?v=BFFY9Zor6zw) - Kent Beck
+* [The Mess We're In](https://www.youtube.com/watch?v=lKXe3HUG2l4) - Joe Armstrong
 
 ### Functional Programming
 * [Domain Modeling Made Functional](https://youtu.be/Up7LcbGZFuo) - Scott Wlaschin
