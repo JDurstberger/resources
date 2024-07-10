@@ -85,7 +85,6 @@ a curated list of resources I can personally recommend and consider good or inte
 
 * **The Pragmatic Programmer** - Andrew Hunt, David Thomas
 * **Code Complete: A Practical Handbook of Software Construction** - Steve McConnell
-* **Clean Code** - Robert C. Martin
 
 ### Testing
 
